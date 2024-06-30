@@ -20,9 +20,6 @@ A real-time screw counting application using OpenCV and Tkinter for GUI.
 - `gui.py`: Contains the `ScrewCounterApp` class to create and manage the GUI.
 ## Materials:
 
-![test](https://github.com/DachiBR/Object-Detection-System/assets/75274431/d6968f1e-ae3b-403e-b25f-0436feed9b8a)
-
-
 ![test1](https://github.com/DachiBR/Object-Detection-System/assets/75274431/cd330e2d-9b00-435c-aebe-50d176ca8188)
 
 ![test2](https://github.com/DachiBR/Object-Detection-System/assets/75274431/42eed2cd-2691-4ca5-a33b-2603f6142f79)
