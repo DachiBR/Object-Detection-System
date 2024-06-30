@@ -1,4 +1,4 @@
-# Object Detection Syste,
+# Object Detection System
 
 A real-time screw counting application using OpenCV and Tkinter for GUI.
 
