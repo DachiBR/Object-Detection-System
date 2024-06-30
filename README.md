@@ -19,12 +19,15 @@ A real-time screw counting application using OpenCV and Tkinter for GUI.
 - `item_detection.py`: Contains the function to detect objects in an image.
 - `gui.py`: Contains the `ScrewCounterApp` class to create and manage the GUI.
 ## Materials:
-![test](https://github.com/DachiBR/Object-Detection-System/assets/75274431/b8c0c3c4-942a-495e-9358-1f69a91b7ee3)
-![test1](https://github.com/DachiBR/Object-Detection-System/assets/75274431/79260887-e5b6-4366-81![test2](https://github.com/DachiBR/Object-Detection-System/assets/75274431/2931879a-bdc2-411d-9902-d20b59b5ddd8)
-b3-05721a12aab2)
-![test3](https://github.com/DachiBR/Object-Detection-System/assets/75274431/701f1bb6-7f2a-469f-a47f-e10b69bf5267)
+
+![test](https://github.com/DachiBR/Object-Detection-System/assets/75274431/d6968f1e-ae3b-403e-b25f-0436feed9b8a)
 
 
+![test1](https://github.com/DachiBR/Object-Detection-System/assets/75274431/cd330e2d-9b00-435c-aebe-50d176ca8188)
+
+![test2](https://github.com/DachiBR/Object-Detection-System/assets/75274431/42eed2cd-2691-4ca5-a33b-2603f6142f79)
+
+![test3](https://github.com/DachiBR/Object-Detection-System/assets/75274431/5d029f75-1d96-4363-abf3-bff288c11ad9)
 
 
 ## Future Improvements
